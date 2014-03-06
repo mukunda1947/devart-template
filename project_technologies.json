@@ -1,16 +1,24 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+           "Web Speech",
+           "HTML5",
+           "JAVASCRIPT",
+           "CSS",
+           "PHP"
         ],
         "platforms": [
-            "insert platforms"
+            "windows",
+            "linux"
         ],
         "toolkits": [
-            "insert toolkits"
+            "jquery",
+            "Node.js"
         ]
     },
     "themes": [
-        "insert themes"
+        "Wishes",
+        "Particles",
+        "Dreams"
     ]
 }
